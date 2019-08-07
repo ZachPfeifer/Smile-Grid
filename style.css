@@ -1,0 +1,17 @@
+*{
+  border: 1px solid;
+  text-align: center;
+
+}
+p{
+    text-align: center;
+}
+
+/*.container-fluid{
+  margin: auto auto;
+  text-align: center;
+  border: 1px solid black;
+  outline: 2px solid black;
+  column-rule: 2px solid black;
+  border-collapse: collapse;
+}*/
